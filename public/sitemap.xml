@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>http://localvilnius.guide/where-to-eat-in-vilnius</loc>
+      <image:image>
+        <image:loc>https://vilnius-guide-ultimate.herokuapp.com/assets/blood-chocolate-ea207b3b290ff3ab0c8c9784f4218687b88f64a07ad243cd0f86b1a269150c47.jpg</image:loc>
+        <image:title>Lithuanian food and dishes</image:title>
+        <image:geo_location>Vilnius</image:geo_location>
+      </image:image>
+      <image:image>
+        <image:loc>https://vilnius-guide-ultimate.herokuapp.com/assets/kaule-grafiti-0aac0b03029b4425d50aeb043dd3bc5540e3212edf1b0832c534d606df25c103.png</image:loc>
+        <image:title>Restaurants in Vilnius</image:title>
+        <image:geo_location>Vilnius</image:geo_location>
+      </image:image>
+
+      <lastmod>2017-07-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+    <url>
+      <loc>http://localvilnius.guide/what-to-see-in-vilnius</loc>
+      <image:image>
+        <image:loc>https://vilnius-guide-ultimate.herokuapp.com/assets/Lietuva4-f4b8b7465d0fb028a3988d686a89fed9548f3daa7b010bc9b976b3866eecbb49.jpg</image:loc>
+        <image:title>Gedimino Castle sightseeing spot</image:title>
+        <image:geo_location>Vilnius</image:geo_location>
+      </image:image>
+
+      <image:image>
+        <image:loc>http://localvilnius.guide/assets/vamzdis-9f529cef6545a324c022e9c41355b951d6aa11d6dd257b187c32a0f3588ef94e.jpg</image:loc>
+        <image:title>Best places in Vilnius to see - The Pipe</image:title>
+        <image:geo_location>Vilnius</image:geo_location>
+      </image:image>
+
+      <lastmod>2017-07-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+
+  <url>
+    <loc>http://localvilnius.guide/where-to-party-in-vilnius</loc>
+    <image:image>
+      <image:loc>https://vilnius-guide-ultimate.herokuapp.com/assets/vilnius-clubs-13eb994054c23d8ecf732eb40ab4bd34426bebc1a40660bcd7c7fcacc0a470ce.jpg</image:loc>
+      <image:title>Night life and clubds in Vilnius</image:title>
+      <image:geo_location>Vilnius</image:geo_location>
+    </image:image>
+
+    <lastmod>2017-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+  <loc>http://localvilnius.guide/where-to-stay-in-vilnius</loc>
+    <image:image>
+      <image:loc>https://vilnius-guide-ultimate.herokuapp.com/assets/vilnius-map-eff3e241a4b344db7ee7632b62ca24d4ab6042ff2c92401d861a5ba657fefc88.png</image:loc>
+      <image:title>Best places to stay in Vilnius</image:title>
+      <image:geo_location>Vilnius</image:geo_location>
+    </image:image>
+
+    <lastmod>2017-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+<url>
+  <loc>http://localvilnius.guide/what-to-listen-in-vilnius</loc>
+  <lastmod>2017-07-01</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>http://localvilnius.guide/fun-facts-about-Lithuania</loc>
+  <image:image>
+    <image:loc>https://vilnius-guide-ultimate.herokuapp.com/assets/lt-girl-0f9c84af6c9c16e19c561539056bc7c9bbaf11dac6c6896aa06689514c3b1ee2.jpg</image:loc>
+    <image:title>Lithuanian girl</image:title>
+    <image:geo_location>Vilnius</image:geo_location>
+  </image:image>
+
+  <lastmod>2017-07-01</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>http://localvilnius.guide/ebook</loc>
+    <image:image>
+      <image:loc>https://vilnius-guide-ultimate.herokuapp.com/assets/ebook-dfabc855b2bd38794cc820d46257b3c8083aabda423ba099dd96644289c2841b.png</image:loc>
+      <image:title>Ultimate Vilnius Guide by a Local</image:title>
+      <image:geo_location>Vilnius</image:geo_location>
+    </image:image>
+  <lastmod>2017-07-01</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+
+
+
+</urlset>
