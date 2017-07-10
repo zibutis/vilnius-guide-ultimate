@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-  root to: 'pages#where_to_eat_in_vilnius'
+  root to: 'pages#what_to_see_in_vilnius'
 
 get "what-to-see-in-vilnius",       to: 'pages#what_to_see_in_vilnius'
 get "where-to-eat-in-vilnius",      to: 'pages#where_to_eat_in_vilnius'
